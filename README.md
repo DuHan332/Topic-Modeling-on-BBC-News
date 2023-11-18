@@ -14,3 +14,5 @@ For GMM:
 Run the document clustering script with test_method='gmm'.
 
 WordCloud is required to run mkWordClouds.py to visualize results.
+
+(Some datasets are not uploaded because of size limitation)
